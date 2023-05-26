@@ -1,0 +1,20 @@
+.example-card {
+  max-width: 400px;
+}
+
+.green-color {
+  /* color:green;*/
+  color: white;
+
+}
+
+.example-header-image {
+  background-color: rgb(170, 86, 240);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+mat-card-actions button {
+  margin-left: 8px;
+}

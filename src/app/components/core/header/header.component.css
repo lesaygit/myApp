@@ -1,0 +1,12 @@
+.example-spacer {
+    flex: 1 1 auto;
+  }
+  .example-icon{
+    margin-right: 8px;
+  }
+  a{
+    margin-left: 8px;
+    text-decoration: none;
+    color: white;
+    font-style: italic;
+  }

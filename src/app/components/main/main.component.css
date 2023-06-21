@@ -1,0 +1,11 @@
+:host{
+    background-color: rgb(188, 167, 245);
+    flex-grow: 1;
+}
+.main{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 10px;
+    align-items: center;
+}
